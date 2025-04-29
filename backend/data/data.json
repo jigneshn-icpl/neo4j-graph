@@ -726,7 +726,7 @@
             "AWSPolicyStatement"
         ],
         "properties": {
-            "resource": [
+            "resource": [   
                 "arn:aws:apigateway:*::/domainnames"
             ],
             "effect": "Allow",

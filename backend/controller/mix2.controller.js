@@ -8,7 +8,7 @@ const getGraphData = async (req, res) => {
         const result = await Cartography.aggregate([
             {
                 $match: {
-                    _id: "4:9214c9ea-67e3-4195-aa40-d285732321f2:2" // Match the provided ID
+                    _id: "4:9214c9ea-67e3-4195-aa40-d285732321f2:6" // Match the provided ID
                 }
             },
             {
