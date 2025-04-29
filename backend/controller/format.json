@@ -1,0 +1,36 @@
+[{
+    "_id": "4:9214c9ea-67e3-4195-aa40-d285732321f2:2",
+    "labels": [
+      "AWSUser",
+      "AWSPrincipal"
+    ],
+    "properties": {
+      "firstseen": {
+        "$numberLong": "1745568297675"
+      },
+      "path": "/",
+      "name": "hitarths",
+      "createdate": "2025-03-27 04:53:12+00:00",
+      "lastupdated": 1745568289,
+      "arn": "arn:aws:iam::145023093594:user/hitarths",
+      "userid": "AIDASDRAMZNNFIGKT72F4",
+      "passwordlastused": "2025-04-23 07:40:59+00:00",
+      "element_id": "4:9214c9ea-67e3-4195-aa40-d285732321f2:2"
+    },
+    "parentID": [
+      "4:9214c9ea-67e3-4195-aa40-d285732321f2:0"
+    ],
+    "relation": [
+      "RESOURCE",
+      "POLICY",
+      "POLICY",
+      "AWS_ACCESS_KEY"
+    ],
+    "childID": [
+      "4:9214c9ea-67e3-4195-aa40-d285732321f2:3",
+      "4:9214c9ea-67e3-4195-aa40-d285732321f2:6",
+      "4:9214c9ea-67e3-4195-aa40-d285732321f2:9",
+      "4:9214c9ea-67e3-4195-aa40-d285732321f2:15"
+    ]
+  }
+]
